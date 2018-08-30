@@ -9,8 +9,8 @@ image: ""
 x-kinRank: "7"
 x-alexaRank: "0"
 tags: Cisco Unity Connection Messaging Interface
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-29"
+modified: "2018-08-29"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/cisco-unity-connection-messaging-interface/master/_listings/cisco-unity-connection-messaging-interface/apis.md
 specificationVersion: "0.14"
 apis:
